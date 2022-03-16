@@ -1,0 +1,5 @@
+a=int(input("enter a no: "))
+b=int(input("enter a no: "))
+multiplication=(a*b)
+print(multiplication)
+print(type(multiplication))
